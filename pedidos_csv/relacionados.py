@@ -10,8 +10,8 @@ print("-" * 110)
 print(pedidos_df)
 print("-" * 110)
 
-# Fazendo o merge dos dois DataFrames usando o método merge e especificando o campo cliente_id como chave
-resultado = pd.merge(clientes_df, pedidos_df, on="cliente_id")
+# # Fazendo o merge dos dois DataFrames usando o método merge e especificando o campo cliente_id como chave
+resultado = pedidos_df.merge(clientes_df, how='inner', left_on="cliente_id", right_on="id")
 
-# Mostrando o resultado
+# # Mostrando o resultado
 print(resultado)
