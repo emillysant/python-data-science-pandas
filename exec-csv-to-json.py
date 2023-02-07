@@ -1,5 +1,8 @@
-# pip install pyarrow
-
 import pandas as pd
-df = pd.read_csv('dados.csv')
-df.to_json('dados.json')
+
+# Lê o arquivo "dados.csv" como um DataFrame do Pandas
+df = pd.read_csv("dados.csv")
+
+# Grava o DataFrame como um arquivo "dados.json"
+df.to_json("dados.json", orient="records")
+

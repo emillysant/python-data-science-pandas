@@ -1,12 +1,1 @@
-[
-    {
-        "id": 1,
-        "nome": "Beatriz",
-        "Obs": "Uma aluna"
-    },
-    {
-        "id": 2,
-        "nome": "Gabi",
-        "Obs": "Uma aluna"
-    }
-]
+[{"id":1,"nome":"Danilo","obs":"Professor"},{"id":7,"nome":"Raquel","obs":"Contadora"},{"id":26,"nome":"Arianna","obs":"Feliz"},{"id":666,"nome":"Amanda","obs":"doida"},{"id":27,"nome":"gabi","obs":"canhota"},{"id":83,"nome":"Larissa","obs":"Aluna"},{"id":47,"nome":"Paula","obs":"Aluna"},{"id":12,"nome":"Eduarda","obs":"Aluna"}]
