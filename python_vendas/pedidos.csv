@@ -1,2 +1,4 @@
 id,cliente_id,produto,quantidade,valor,valor_total
 535f3853-b44f-46bc-a9b9-83118f86edb2,4f23fc8e-8571-477c-81a5-f139e31b8b51,Café preto,2,4.5,9.0
+dd03f79d-ab5f-4bb6-a442-28bb664761d7,4f23fc8e-8571-477c-81a5-f139e31b8b51,Arroz Branco,1,45.00,45.0
+10520b83-a5b2-48ef-af27-ac7fe3b6f8c7,e6f39b45-7b1d-4942-9ee0-2362f8ad37b6,Hamburger Preto,2,35.80,71.6
