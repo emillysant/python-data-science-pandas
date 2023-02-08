@@ -1,4 +1,4 @@
-# para rodar o programa digite o comando abaixo no linux
+# Para rodar o programa digite o comando abaixo no linux
 
 ```shell
  ./run.sh
